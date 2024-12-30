@@ -1,0 +1,50 @@
+[
+    {
+        "Task id":"1",
+        "title": "frontend",
+        "description": "complete the HTML,CSS,JS and ReactJS",
+        "dueDate": "15/10/2024",
+        "createdAt": "01/05/2023 ",
+        "updatedAt": "01/06/2023 "
+    },
+    {
+        "Task id":"2",
+        "title": "Complete project report",
+        "description": "Finish the final report for the project and have to recheck.",
+        "dueDate": "20/11/2024",
+        "createdAt": "02/10/2024 ",
+        "updatedAt": "02/10/2024 "
+    },
+    {
+        "Task id":"3",
+        "title": "Cleaning",
+        "description": "Clean the whole house with water.",
+        "dueDate": "25/12/2024",
+        "createdAt": "03/10/2024 ",
+        "updatedAt": "03/10/2024 "
+    },
+    {
+        "Task id":"4",
+        "title": "Read a book",
+        "description": "Finish reading 'The physiology of money'.",
+        "dueDate": "01/12/2024",
+        "createdAt": "04/01/2025 ",
+        "updatedAt": "04/01/2025 "
+    },
+    {
+        "Task id":"5",
+        "title": "Workout",
+        "description": "Go to the gym for a workout session.",
+        "dueDate": "31/12/2024",
+        "createdAt": "05/10/2024 ",
+        "updatedAt": "05/10/2024 "
+    },
+    {
+        "Task id":"6",
+        "title": "Plan weekend trip",
+        "description": "Research and plan a trip to the goa.",
+        "dueDate": "30/5/2025",
+        "createdAt": "06/11/2024 15:00:00",
+        "updatedAt": "06/11/2024 15:00:00"
+    }
+]
