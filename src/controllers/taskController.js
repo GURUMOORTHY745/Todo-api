@@ -16,7 +16,6 @@ exports.addTask = async (req, res) => {
         res.status(400).json({ message: 'Error creating task', error });
     }
 };
-
 // To Get All Tasks with Pagination
 exports.getAllTasks = async (req, res) => {
     const { page = 1, limit = 10 } = req.query;
